@@ -1,36 +1,12 @@
-import React, { Component, useState } from "react";
-import SignupForm from './components/signupForm';
-import loginForm from './components/LoginForm';
-import "./App.css";
+import  './App.css';
+import SignupForm from './components/SignupForm.js';
 
 function App() {
-  const adminUser = {
-    firstname: "salaama",
-    lastname: "mohamed"
-  }
+return(
+ <div className='App'>
+  <form></form>
+ </div>
 
-  const [user, setUser] = useState({firstname:"", lastname:""});
-  const [error, setError] = useState("");
-
-  const Signup = details => {
-    console.log(details);
-  }  
-
-  const login = () => {
-    console.log("login");
-  }
-
-  const toggleform = (formName) => {
-
-
-  return (
-    <div className="App">
-     <SignupForm Signup={Signup} error={error} />
-     
-    </div>
-  )
-
-};
+);
 }
-   
-   export default App
+export default App;
