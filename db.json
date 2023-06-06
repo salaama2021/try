@@ -1,0 +1,35 @@
+{
+    "user":[
+        {
+           "name":"Thomas",
+           "surname":"Cook",
+           "email address":"tCo0ks@gmail.com",
+           "bio": "simply the best",
+           "image":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZhY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+           "date of birth":"22 May 2001",
+           "employee position":"manager",
+           "employee number":"00030780"
+        },
+        {
+            "name":"Sally",
+            "surname":"Crow",
+            "email address":"sA0ks@gmail.com",
+            "bio": "simply the best",
+            "image":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZhY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+            "date of birth":"22 June 1999",
+            "employee position":"general manager",
+            "employee number":"75031780"
+        },
+
+        {
+            "name":"Talia",
+            "surname":"krane",
+            "email address":"ks007@gmail.com",
+            "bio": "simply the best",
+            "image":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZhY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+            "date of birth":"23 April 1989",
+            "employee position":"supervisor",
+            "employee number":"78930780"
+        }
+    ]
+}
