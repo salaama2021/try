@@ -1,12 +1,13 @@
-import  './App.css';
-import SignupForm from './components/SignupForm.js';
+import React from 'react'
 
-function App() {
-return(
- <div className='App'>
-  <form></form>
- </div>
-
-);
+function Home() {
+    return(
+        <BrowserRouter>
+        <Routes>
+            <Route path='/' element={<Home />}></Route>
+        </Routes>
+        </BrowserRouter>
+    )
 }
-export default App;
+
+export default App
